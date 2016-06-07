@@ -1,0 +1,7 @@
+{
+    "name": "pushpendra_pdftotext/pdf2text",
+    "description": "ConvertPdftoText",
+    "require": {
+        "php": "5.3"
+    }
+}
